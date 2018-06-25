@@ -10,7 +10,6 @@
 import numpy as np
 import PIL.Image as Image
 from os import listdir,remove
-import operator
 import matplotlib.pylab as plt
 from sklearn.neighbors import KNeighborsClassifier as kNN
 
